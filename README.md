@@ -21,5 +21,6 @@ In Progress
 
 - Turn it into a video
 - Add background 
+- Add text-to-speech
 - Upload to youtube
 
