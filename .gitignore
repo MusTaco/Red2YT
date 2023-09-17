@@ -1,5 +1,8 @@
 text-files/
-json-files/
+json-files/*
 background/*
 videos/*
 audio/*
+!*/.gitkeep
+!json-files/credentials.txt
+*/*.pyc
