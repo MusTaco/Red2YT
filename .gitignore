@@ -5,4 +5,4 @@ videos/*
 audio/*
 !*/.gitkeep
 !json-files/credentials.txt
-*/*.pyc
+**/*.pyc
