@@ -1,3 +1,5 @@
+# utils/text_utils
+
 def split_sen(sen):
     split_chars = ['.', ',', ':', ';', '?']
     ignore_chars = { '(', ')', '[', ']'}

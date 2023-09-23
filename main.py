@@ -14,7 +14,7 @@ def main():
         break
 
     # text_utils.process_text(desc)
-    video_utils.create_video(titl, desc)
+    video_utils.create_video(titl, desc, 'background/small_video_clip.mp4')
 
 if __name__ == "__main__":
     main()
